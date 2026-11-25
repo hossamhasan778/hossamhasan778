@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hossam hasan — Freelance Video Editor
 
-<!--
-**hossamhasan778/hossamhasan778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I turn raw footage into videos that get watched, shared and clicked. Based in Giza, Egypt, working with clients across Egypt and the Gulf.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Reels & Short-form** — Reels, TikTok and YouTube Shorts editing that holds attention to the last second
+- **Ads & Promo Videos** — commercial videos for brands and online stores, built to sell
+- **Motion Graphics** — titles, transitions and animated graphics
+- **AI-Generated Content** — fast, modern AI video production
+
+## Why work with me
+
+- Professional quality and fast delivery
+- Clear communication from brief to final cut
+- Work samples available on request
+
+## Get in touch
+
+- Phone / WhatsApp: **01033806306**
+- LinkedIn: [linkedin.com/in/hossam-hasan-5a3189452](https://www.linkedin.com/in/hossam-hasan-5a3189452)
